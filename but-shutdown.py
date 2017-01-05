@@ -2,7 +2,7 @@
 Author: Kevin Lutzer
 Date: Dec 29 2016
 Description: Script that runs in the background. Shuts down the pi when a GPIO
-pin goes low or high
+pin goes low
 '''
 
 import time
